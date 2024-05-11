@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(9, 255, 0); /* Change background color to blue */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #008080;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
